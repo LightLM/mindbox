@@ -1,4 +1,4 @@
-def count_(n):
+def count_(n):qweqwe
     dict_clients = {}
     for i in range(n):
         number_sum = sum(map(int, list(str(i))))
